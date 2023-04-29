@@ -4,8 +4,8 @@
 
 
 - 🌱I’m currently learning MERN Stack
+- 😄 Interested in problem solving and competitive programming
 - 📫 How to reach me: alaaahmed2032002@gmail.com
-
 <!--
 **AlaaaAhmad/AlaaaAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
